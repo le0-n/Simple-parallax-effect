@@ -29,11 +29,6 @@
     box-shadow: 0 0 50px #211412;
     text-transform: uppercase;
     color: #DEF0C7;
-
-    animation: text1 .5s alternate infinite;
-}
-@keyframes text1 {
-    from{ text-shadow: 0 0 100px white; }
 }
 .container .background2 {
     width: 100%;
@@ -55,11 +50,6 @@
     box-shadow: 0 0 50px #211412;
     text-transform: uppercase;
     color: #E5CEBD;
-
-    animation: text2 .5s alternate infinite;
-}
-@keyframes text2 {
-    from{ text-shadow: 0 0 100px white; }
 }
 .container .background3 {
     width: 100%;
@@ -81,11 +71,6 @@
     box-shadow: 0 0 50px #211412;
     text-transform: uppercase;
     color: #E5CEBD;
-
-    animation: text3 .5s alternate infinite;
-}
-@keyframes text3 {
-    from{ text-shadow: 0 0 100px white; }
 }
 .container .background4 {
     width: 100%;
@@ -107,11 +92,6 @@
     box-shadow: 0 0 50px #211412;
     text-transform: uppercase;
     color: #3B2E1C;
-
-    animation: text4 .5s alternate infinite;
-}
-@keyframes text4 {
-    from{ text-shadow: 0 0 100px rgb(136, 136, 136); }
 }
 .container .background5 {
     width: 100%;
@@ -133,9 +113,4 @@
     box-shadow: 0 0 50px #211412;
     text-transform: uppercase;
     color: #3B2E1C;
-
-    animation: text5 .5s alternate infinite;
-}
-@keyframes text5 {
-    from{ text-shadow: 0 0 100px rgb(0, 0, 0); }
 }
